@@ -50,7 +50,7 @@ function Login() {
                 <Button style={{ width: "430px", borderRadius: '50px', background: '#0d0c22' }} variant="dark" type="submit" className='p-3'>
                   Sign in
                 </Button>
-                <p className='text-center mt-3 '>Don't have an account? <a href="" className='text-dark'>Sign un</a> </p>
+                <p className='text-center mt-3 '>Don't have an account? <a href="/signup" className='text-dark'>Sign up</a> </p>
                 
               </Form>
             </div>
